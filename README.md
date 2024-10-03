@@ -31,3 +31,6 @@ Two types of encryptions :
 # Some libraries for creating ECDSA (Elliptic Curve Digital Signature Algorithm) - secp256k1
 1. @noble/secp256k1
 2. ethers - for ethereum wallets / cryptographic function
+
+# HD
+Hierarchical Deterministic Wallet” — generates addresses by taking the phrase and combining it with a piece of information called a derivation path. Together, they create any number of accounts, using Complex Math™ aka cryptography.
