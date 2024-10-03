@@ -34,3 +34,9 @@ Two types of encryptions :
 
 # HD
 Hierarchical Deterministic Wallet” — generates addresses by taking the phrase and combining it with a piece of information called a derivation path. Together, they create any number of accounts, using Complex Math™ aka cryptography.
+
+# RPC (Remote procedure call) communication protocol
+We can also call procedure a (function) coz we are calling remote function through this protocol.
+
+# Batch Request (this is universal topic not only in web3)
+A batch request is a  mechianism in which multiple HTTP requests are combined into a single rquest. But we have to make sure that APi supports batch processing.
