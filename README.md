@@ -6,7 +6,8 @@
 
 # Hashing algo that convert our data into string & characters.
 1. SHA-256 - used by SOL
-2. MD5 - insecure due to vulnerabilities
+2. keccak-256 - used by eth
+3. MD5 - insecure due to vulnerabilities
 
 # Encryption algo that converts our data into ciphertext.
 Two types of encryptions :
