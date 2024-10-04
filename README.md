@@ -39,6 +39,9 @@ Hierarchical Deterministic Wallet” — generates addresses by taking the phras
 We can also call procedure a (function) coz we are calling remote function through this protocol.
 
 # Batch Request (this is universal topic not only in web3)
+
+## Links
+https://sreeks.notion.site/Web3-Week3-cce0a7aee0a54348abd3d7b8ded1aef4
 A batch request is a  mechianism in which multiple HTTP requests are combined into a single rquest. But we have to make sure that APi supports batch processing.
 
 ## private keys are used of transaction and signing messages.
