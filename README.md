@@ -40,3 +40,5 @@ We can also call procedure a (function) coz we are calling remote function throu
 
 # Batch Request (this is universal topic not only in web3)
 A batch request is a  mechianism in which multiple HTTP requests are combined into a single rquest. But we have to make sure that APi supports batch processing.
+
+## private keys are used of transaction and signing messages.
