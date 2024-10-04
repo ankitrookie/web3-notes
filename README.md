@@ -52,3 +52,15 @@ Accounts on solana are the data structure(scheam, just for my own undrstanding) 
 And it also stores fixed state, where we can eventually manipulate through smart contracts/programs. And program are special type of data storage structure in solan that contains executable codes.
 
 ## Cold start problems / this problem are miner problem initially when you create you own blockchain, there will be no miners. So this is refer as cold start problem.
+
+## Command to interact with solana cli.
+#### To check in which network env I am currently in.
+```bash
+solana config get
+```
+#### To change network env
+```bash
+solana config set --url https://api.devnet.solana.com
+solana config set --url https://api.testnet.solana.com
+solana config set --url https://your-rpc-node.com:8899
+```
