@@ -46,3 +46,7 @@ A batch request is a  mechianism in which multiple HTTP requests are combined in
 
 ## Links
 https://sreeks.notion.site/Web3-Week3-cce0a7aee0a54348abd3d7b8ded1aef4
+
+# Accounts on solana.
+Accounts on solana are the smart contracts/program data that is stored. We refer this data as Accounts. And it can also store verious type of data not only program/smart datas.
+And it also stores fixed state, where we can eventually manipulate through smart contracts/programs.
