@@ -50,3 +50,5 @@ https://sreeks.notion.site/Web3-Week3-cce0a7aee0a54348abd3d7b8ded1aef4
 # Accounts on solana.
 Accounts on solana are the data structure(scheam, just for my own undrstanding) for storing datas. We refer this data as Accounts. And it can also store verious type of data not only program/smart contract datas.
 And it also stores fixed state, where we can eventually manipulate through smart contracts/programs. And program are special type of data storage structure in solan that contains executable codes.
+
+## Cold start problems / this problem are miner problem initially when you create you own blockchain, there will be no miners. So this is refer as cold start problem.
