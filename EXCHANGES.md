@@ -16,3 +16,17 @@ Liquidity is how easily you can buy or sell an asset without affecting its price
 Ex: when a big whale come and place large order. They can impact the market.  so they end up eating the order book by a lot. As result the price will spik, coz now there are fewer assest to buy, so remaning price assets will spike. Coz  now supply is low.
 
 So high liquidity means stable prices even with big trades, while low liquidity means prices can change quickly with large orders.
+
+## Decentrilized Exchanges Jargons
+
+### Liquidity Pools 
+Liquidity pools are collection of cryptocurreny/token locked or deployed in the smart contract that is used to facilitate trades.
+
+### Constant product algorithem
+Lets say Liquidity pool has this much token in total = 3000000
+3000 SOL --- 1000 USDC = 3000 * 1000 = 3000000
+So now as per formula ==> Lets say someone came and make sol up to 3001 SOL now we have to decrese USDC to make liquidity constant. So now given/added one sol, now how much USDC you can pool out is 1.666. So one sol you are getting for 1.666 USDC.
+
+
+
+
