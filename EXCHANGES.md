@@ -30,6 +30,5 @@ So now as per formula ==> Lets say someone came and make sol up to 3001 SOL now 
 So now if SOL is lot of supply the price of SOL will decrease and same with otheres tokens.
 Same lot of people are buying solan a lot, then SOL price will go up, coz supply is less.
 
-
-
-
+## Impermanent Loss
+This is regarding, who decided the constants, and constants decide based of of. 
