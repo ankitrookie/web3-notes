@@ -10,3 +10,9 @@ for this there are algorithms that decideds this things.
 ## Spread 
 In exchange the spread is the different between aks price and bid price. for ex: I as a asker, asked 2 lakhs for house
 but bidder is willing to pay 1.5 lakhs so the spread is 5 lakhs. 
+
+## Liquidity
+Liquidity is how easily you can buy or sell an asset without affecting its price.
+Ex: when a big whale come and place large order. They can impact the market.  so they end up eating the order book by a lot. As result the price will spik, coz now there are fewer assest to buy, so remaning price assets will spike. Coz  now supply is low.
+
+So high liquidity means stable prices even with big trades, while low liquidity means prices can change quickly with large orders.
