@@ -20,7 +20,10 @@ So high liquidity means stable prices even with big trades, while low liquidity 
 ## Decentrilized Exchanges Jargons
 
 ### Liquidity Pools 
-Liquidity pools are collection of cryptocurreny/token locked or deployed in the smart contract that is used to facilitate trades. The more the liquidity the better the price.
+Liquidity pools are collection of cryptocurreny/token locked or deployed in the smart contract that is used to facilitate trades. 
+```bash
+The more the liquidity the better the price.
+```
 
 ### Constant product algorithem
 Lets say Liquidity pool has this much token in total = 3000000
