@@ -35,4 +35,5 @@ That is what non-fungible token are, unique digital assets that cannot be divide
 associated  token is a account of User account created from Mint account. Where user has their own token of that mint.
 For like real life ex: RBI is a Mint account and Assocaited token account is a Bank account that every coutumer has.
 And when user have 0 in account the account colses automatically.
-And for every token like : doggy, Dogy, USDC, USDT, I have each bank account.
+And for every token like : doggy, Dogy, USDC, USDT, I have each bank account. 
+Statment would be something like this : whos bank account you want to open, and in what currency do you want to open bank account on.(doggy coint, USDC etc)
