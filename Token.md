@@ -30,3 +30,9 @@ Nonfungible tokens are unique and non-devisable.
 Art Works :: Traditional Indian art pieces, paintings by renowned artiest.
 
 That is what non-fungible token are, unique digital assets that cannot be divided. Something that cannot be devided down further.
+
+## Associated Token Account
+associated  token is a account of User account created from Mint account. Where user has their own token of that mint.
+For like real life ex: RBI is a Mint account and Assocaited token account is a Bank account that every coutumer has.
+And when user have 0 in account the account colses automatically.
+And for every token like : doggy, Dogy, USDC, USDT, I have each bank account.
