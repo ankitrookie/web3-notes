@@ -18,3 +18,6 @@ the solana smart contract. So that will create new account for me.
 This exact thing creating account is called minting account(Mint Account).
 
 More jargon :: In solana each token mint account has a fised size of 82 bytes. Coz every mint is same and storing same thing right so that why it is constant accross the mint.
+
+The Decimals we see while creating Token in solan which is 9. It is same as lamports in solana the smallest unite of 
+solana is lamport => 1000000000. So 1 Token => 9
