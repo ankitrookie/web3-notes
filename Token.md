@@ -21,3 +21,12 @@ More jargon :: In solana each token mint account has a fised size of 82 bytes. C
 
 The Decimals we see while creating Token in solan which is 9. It is same as lamports in solana the smallest unite of 
 solana is lamport => 1000000000. So 1 Token => 9
+
+## fungible and nonfungible token
+Fungable tokens are those assets that are devisable(one that can broken down into smaller unites without losing their value)
+Indian rupee :: notes such as 100 INR is fungible. you can change one with other coz they hold same value.
+
+Nonfungible tokens are unique and non-devisable.
+Art Works :: Traditional Indian art pieces, paintings by renowned artiest.
+
+That is what non-fungible token are, unique digital assets that cannot be divided. Something that cannot be devided down further.
