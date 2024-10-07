@@ -1,4 +1,4 @@
-## Tokens / Token Mint
+## Tokens / Token Mint(Mint Account)
 Token is a digital assets createed/deployed on a blockchain.
 
 The folks at USDC, UDDT, Tether haven't created their own blockchain, and 
@@ -14,3 +14,7 @@ in the blockchain.
 
 For more instence : If in future i want to create my own token called AnkitCoin, so what will i do. Call a function on 
 the solana smart contract. So that will create new account for me.
+
+This exact thing creating account is called minting account(Mint Account).
+
+More jargon :: In solana each token mint account has a fised size of 82 bytes. Coz every mint is same and storing same thing right so that why it is constant accross the mint.
