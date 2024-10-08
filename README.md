@@ -21,7 +21,7 @@ Two types of encryptions :
         2. ECC (Elliptic Curve Cryptography) - Used by ETH and BTC <br />
            -Common elliptic curve algo are : <br />
                1. secp256k1: Used in Bitcoin (BTC) and Ethereum (ETH). <br />
-               2. ed25519: Used in Solana (SOL). 
+               2. ed25519: Used in Solana (SOL). <br />
         3. EdDSA (Edwards-curve Digital Signature Algorithm) - Used by SOL
 
 # some node js libraries for creating EdDSA - Edwards-curve Digital Signature Algorithm  - ED25519
