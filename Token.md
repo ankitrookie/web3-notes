@@ -39,4 +39,6 @@ And for every token like : doggy, Dogy, USDC, USDT, I have each bank account.
 Statment would be something like this : whos bank account you want to open, and in what currency do you want to open bank account on.(doggy coint, USDC etc)
 
 If we create our own token and want to send it to someone, first we have to create account for them which happens 
-automatically, then put it there.
+automatically, then put it there. And to little clerify it creates account for that specific Token, for lets say i want to send my own token called ankitCoin
+to some one and they dont have account(ankitCoin token account) whele we dont have to create it saperately, while if we send to wallet address it will create that token
+account automatically.
