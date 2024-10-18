@@ -47,9 +47,11 @@ contract Counter {
     }
 }
 ```
-
 # Opcode
 An opcode is the first byte of an instruction in machine language which tells the hardware what operation needs to be performed with this instruction. Every processor/controller has its own set of opcodes defined in its architecture.  An opcode is followed by data like address, values etc if needed.
+
+# ABIs (application binary interface)
+It's is like saying what does the interface look like, and how can I talk to the smart contract/intaract. and also what function exists in this smart contract.
 
 
 
