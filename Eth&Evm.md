@@ -1,6 +1,6 @@
 # Introduction to ETH and EVM
 
-In eth mining happens via Proof of Stacke not via Proof of Wok(which it used to).
+In eth mining happens via Proof of Stake not via Proof of Wok(which it used to).
 
 ## Proof of stake
 PoS in eth is a consensuse mechinism(alog for agreement in decentralized networks) that allows validators to create
