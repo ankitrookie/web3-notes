@@ -25,6 +25,31 @@ When you compile solidity code, it will generate two thing for you
 
 Bytecode -> Human-readable code converted into bytes. In the form of 0s & 1s. So bytes is solidity code is compiled.
 And that Bytes is sequence of instructions(opcodes) taht can be understood and executed by the eth virtual machine.
+Below is the simple solidity code, when we compile it will comple to bytes/hax.
+
+```solidity
+pragma solidity >=0.7.0 <0.9.0;
+
+contract Counter {
+    uint256 private count;
+
+    constructor() {
+        count = 0;
+    }
+
+    function upWardCount() public {
+        count += 1;
+    }
+
+    function downWardCount() public {
+        require(count > 0, "Count cannot go below then this.");
+        count -= 1;
+    }
+}
+```
+
+# Opcode
+An opcode is the first byte of an instruction in machine language which tells the hardware what operation needs to be performed with this instruction. Every processor/controller has its own set of opcodes defined in its architecture.  An opcode is followed by data like address, values etc if needed.
 
 
 
@@ -50,6 +75,6 @@ And that Bytes is sequence of instructions(opcodes) taht can be understood and e
 
 
 ## Class Project 
-- 1. Wallet adapters in ETH
-- 2. Eth on the server, etherjs
-- 3. Eth with React and Next.js
+-  Wallet adapters in ETH
+-  Eth on the server, etherjs
+-  Eth with React and Next.js
